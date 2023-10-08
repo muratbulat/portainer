@@ -3438,7 +3438,7 @@
 			"name": "homepage",
 			"platform": "linux",
 			"ports": [
-				"3000:3000/tcp"
+				"3001:3000/tcp"
 			],
 			"restart_policy": "unless-stopped",
 			"title": "HomePage",
